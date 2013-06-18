@@ -1,0 +1,4 @@
+errdoc
+======
+
+Error code documentation
